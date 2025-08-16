@@ -18,9 +18,9 @@
   <section class="max-w-4xl mx-auto p-8">
     <h2 class="text-2xl font-semibold text-blue-800 mb-4">👨‍🔬 About Me</h2>
     <p>
-      I am a researcher, technologist, and academic with over 
+      I am a lecturer, a researcher,and a principal academic technologist with over 
       <strong>22 years of interdisciplinary experience</strong> in Information Science, AI, 
-      Cybersecurity, Data Science, GIS, and Environmental Systems.
+      Cybersecurity, Robotics, Data Science, GIS, Maritime Technology, and Environmental Systems.
     </p>
     <p class="mt-4">
       Currently at the University of Benin (CERHI), my research bridges 
@@ -62,7 +62,7 @@
       <li>🥇 Winner, Youth Hackathon on Disinfodemic (UNESCO, IBM & South Korea)</li>
       <li>✍️ Published Author in peer-reviewed journals</li>
       <li>🎤 International Speaker at COREVIP, Cairo 2019</li>
-      <li>🌱 Climate Change Mitigation Certificate – Ain Shams University, Egypt</li>
+      <li>🌱 A Climate Ambassador and Climate Change Resilience, Adaptation, and Mitigation Certificate – Ain Shams University, Egypt</li>
     </ul>
   </section>
 
